@@ -1,0 +1,21 @@
+
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: sans-serif;
+  padding: 20px;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+  background: #1e88e5;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
+#infoBox {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #1f1f1f;
+  border-radius: 6px;
+}
